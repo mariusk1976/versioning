@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/mariusk1976/versioning/issues"
   },
-  "homepage": "https://github.com/mariusk1976/versioning#readme"
+  "homepage": "https://github.com/mariusk1976/versioning#readme",
+  "dependencies": {
+    "pkginfo": "^0.4.1"
+  }
 }
